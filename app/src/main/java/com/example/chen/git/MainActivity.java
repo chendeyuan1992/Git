@@ -9,7 +9,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     /**
-     * 天机
+     * eeeeeeee
      * @param savedInstanceState
      */
     @Override
@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.print("打架打架打架打架打架");
+
     }
 }
