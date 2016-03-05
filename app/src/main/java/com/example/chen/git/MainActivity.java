@@ -3,6 +3,9 @@ package com.example.chen.git;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ *
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
