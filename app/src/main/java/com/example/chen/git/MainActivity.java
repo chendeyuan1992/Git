@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- *×¢½â
+ *æ³¨è§£
  */
 public class MainActivity extends AppCompatActivity {
 
